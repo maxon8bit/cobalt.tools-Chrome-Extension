@@ -17,7 +17,6 @@ This Fan-Made Chrome extension provides a convenient way to quickly open the cur
 
 * **Toolbar Popup:**
     1.  Click the extension icon in the Chrome toolbar. For faster accesibility you can also pin it.
-        ![image](https://github.com/user-attachments/assets/15f29408-6c86-4b2b-9327-9f057baf793f)
     2.  Click the "Open cobalt.tools" button. This will open the Cobalt Tools website in a new tab and copy the current page's URL to your clipboard.
     3.  On the Cobalt Tools website, you can then click the "paste" button to process the URL.
 
