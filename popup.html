@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>cobalt.tools extension</title>
+  <style>
+    body {
+      font-family: Consolas, Menlo, monospace;
+      padding: 10px;
+      width: 200px;
+      background-color: #181818;
+      color: #f1f1f1;
+      font-size: 0.9em;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    button {
+      padding: 8px 15px;
+      font-size: 14px;
+      cursor: pointer;
+      background-color: #303030;
+      color: #f1f1f1;
+      border: 1px solid #505050;
+      border-radius: 4px;
+      font-family: Consolas, Menlo, monospace;
+      font-weight: 500;
+      margin-bottom: 8px;
+      width: 80%;
+      white-space: nowrap; /* Verhindert Zeilenumbrüche im Button-Text */
+    }
+    button:hover {
+      background-color: #454545;
+    }
+    .info-text {
+      color: #999;
+      font-size: 0.8em;
+    }
+  </style>
+</head>
+<body>
+  <button id="openCobaltPopupButton">Open cobalt.tools</button>
+  <div class="info-text">On cobalt.tools click the "paste" button to download</div>
+  <script src="popup.js"></script>
+</body>
+</html>
