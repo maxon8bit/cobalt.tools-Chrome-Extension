@@ -5,7 +5,7 @@ This Fan-Made Chrome extension provides a convenient way to quickly open the cur
 
 ## Installation
 
-1.  Download or clone this repository.
+1.  Download and un-zip or clone this repository.
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Enable "Developer mode" in the top right corner.
 4.  Click the "Load unpacked" button in the top left corner.
