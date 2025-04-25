@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "openCobalt",
-    title: "In Cobalt Tools öffnen",
+    title: "open cobalt.tools ",
     contexts: ["page"]
   });
 });
